@@ -4,6 +4,14 @@ A lightweight, interface-driven interaction system for Unity that triggers visua
 
 ---
 
+## 📜 Included Scripts
+
+* IInteractable
+* InteractionRaycaster.cs
+* InteractableObject.cs
+
+---
+
 ## ✨ Features
 
 * **Interface-Driven Architecture:** Uses IInteractable, allowing any script to become "interactable" without complex inheritance.
